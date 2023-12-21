@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DrawAllVisualizers Plugin",
+	"Description": "Editor utility to draw all component visualizers.",
+	"Category": "Editor",
+	"CreatedBy": "Zyni",
+	"CreatedByURL": "https://github.com/ZyntaxError",
+	"DocsURL": "https://github.com/ZyntaxError/DrawAllVisualizersPlugin/README",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DrawAllVisualizersModule",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
